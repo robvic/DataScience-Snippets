@@ -8,10 +8,14 @@ Para facilidade de compreensão, cada variação do algoritmo está registrada e
 
 - Importação e configuração de dependências;
 - Importação ou geração de dados;
-- Wrangling dos dados a serem utilizados;
-- Treinamento e parametrização dos modelos;
+- Wrangling dos dados;
+- Feature selection/engineering;
+- Segmentação dos dados de treino;
+- Parametrização dos modelos;
+- Treinamento e predição;
 - Etapa de validação, bagging, boosting, etc;
-- Demonstração dos resultados (ex: intercepto e coeficientes);
+- Tuning dos hiperparâmetros;
+- Demonstração dos resultados (ex:matriz de confusão ou intercepto e coeficientes);
 - Demonstração gráfica dos resultados e contraste com dados reais ou de validação;
 
 ## Informações Conceituais
